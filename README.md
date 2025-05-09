@@ -2,10 +2,9 @@
 This is my final project for the course BTRY 6020 (Spring 2025).
 
 # Student Final Exam Score Prediction
-This project aims to to explore the key demographic, lifestyle, environmental, and academic factors that predict final exam performance among students.
 
 ## Project Overview
-The goal of this analysis is to identify which student habits and characteristics are most strongly associated with exam performance using multiple linear regression. 
+The goal of this analysis is to examine the extent to which demographic, lifestyle, academic, and environmental factors jointly relate to final exam scores among students. using multiple linear regression. 
 
 The dataset for this project is from: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance?resource=download (see also /Data folder)
 
