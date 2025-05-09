@@ -1,0 +1,10 @@
+# R Packages Used
+
+The R packages used in this analysis include:
+
+library(tidyverse)
+library(knitr)
+library(leaps)
+library(caret)
+library(car)
+library(lmtest)
