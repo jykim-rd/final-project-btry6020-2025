@@ -32,9 +32,9 @@ Two regression models were developed and evaluated:
 * Transformed model: optimized for meeting all assumptions of linear regression
 
 ## How to View Results
-Results are documented in the full .rmd file or .htlml gile under the "Results" section. Results are summarized and interpreted under the "Discussion" and "Conclusion" sections.
+Results are documented in the full final_projecy.rmd file or final_project.htlml gile under the "Results" section. Results are summarized and interpreted under the "Discussion" and "Conclusion" sections.
 
 ## How to Run the Analysis
 1. Download or clone this repository.
-2. Open the provided analysis.Rmd file in RStudio.
+2. Open the provided final_project.Rmd file in RStudio.
 3. Run all the code or click "Knit" to generate the full report (HTML or PDF).
