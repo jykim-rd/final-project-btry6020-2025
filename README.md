@@ -27,7 +27,7 @@ It includes records from 1,000 students and contains the following variables:
 * exam_score: final exam score on a scale of 0-100
 
 ## Modeling Approach
-Two regression models were developed and evaluated:
+Two linear regression models were developed and evaluated:
 * Untransformed model: optimized for predictive accuracy
 * Transformed model: optimized for meeting all assumptions of linear regression
 
