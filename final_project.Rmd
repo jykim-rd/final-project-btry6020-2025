@@ -216,7 +216,7 @@ summary(final_mod)
 
 
 
-## Validating mMdel using Appropriate Cross-Validation Techniques
+## Validating Model using Appropriate Cross-Validation Techniques
 
 ```{r}
 #K-fold cross validation
