@@ -1,7 +1,7 @@
 # final-project-btry6020-2025
 This is my final project for the course BTRY 6020 (Spring 2025).
 
-# Student Final Exam Score Prediction
+# Examining Factors Related to Student Final Exam Performance
 
 ## Project Overview
 The goal of this analysis is to examine the extent to which demographic, lifestyle, academic, and environmental factors jointly relate to final exam scores among students using multiple linear regression. 
