@@ -4,7 +4,7 @@ This is my final project for the course BTRY 6020 (Spring 2025).
 # Student Final Exam Score Prediction
 
 ## Project Overview
-The goal of this analysis is to examine the extent to which demographic, lifestyle, academic, and environmental factors jointly relate to final exam scores among students. using multiple linear regression. 
+The goal of this analysis is to examine the extent to which demographic, lifestyle, academic, and environmental factors jointly relate to final exam scores among students using multiple linear regression. 
 
 The dataset for this project is from: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance?resource=download (see also /Data folder)
 
@@ -29,7 +29,7 @@ It includes records from 1,000 students and contains the following variables:
 ## Modeling Approach
 Two linear regression models were developed and evaluated:
 * Untransformed model: optimized for predictive accuracy
-* Transformed model: optimized for meeting all assumptions of linear regression
+* Transformed model: optimized for meeting all assumptions of linear regression and valid inference
 
 ## How to View Results
 Results are documented in the full final_projecy.rmd file or final_project.htlml gile under the "Results" section. Results are summarized and interpreted under the "Discussion" and "Conclusion" sections.
@@ -37,4 +37,5 @@ Results are documented in the full final_projecy.rmd file or final_project.htlml
 ## How to Run the Analysis
 1. Download or clone this repository.
 2. Open the provided final_project.Rmd file in RStudio.
-3. Run all the code or click "Knit" to generate the full report (HTML or PDF).
+3. All required "R" packages are listed in the Requirements.txt file
+4. Run all the code or click "Knit" to generate the full report (HTML or PDF).
